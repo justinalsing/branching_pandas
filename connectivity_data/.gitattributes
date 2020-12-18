@@ -1,0 +1,3 @@
+Middle_Layer_Super_Output_Areas_December_2011_Full_Clipped_Boundaries_in_England_and_Wales.shp filter=lfs diff=lfs merge=lfs -text
+Lower_Layer_Super_Output_Areas_December_2011_Boundaries_EW_BFC.shp filter=lfs diff=lfs merge=lfs -text
+wu03ew_v2.csv filter=lfs diff=lfs merge=lfs -text
